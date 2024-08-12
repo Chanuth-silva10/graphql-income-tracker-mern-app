@@ -19,6 +19,7 @@
     "express": "^4.19.2",
     "express-session": "^1.18.0",
     "graphql": "^16.9.0",
+    "graphql-mern-app": "file:",
     "graphql-passport": "^0.6.8",
     "mongoose": "^8.5.2",
     "passport": "^0.7.0"
